@@ -1,5 +1,50 @@
 # Wallpaper Gallery
-*Total Wallpapers: 160 | Sorted by: Latest First*
+*Total Wallpapers: 168 | Sorted by: Latest First*
+
+---
+
+### `987919.jpg`
+<img src="./987919.jpg" width="900" alt="987919.jpg">
+
+---
+
+### `1363709.png`
+<img src="./1363709.png" width="900" alt="1363709.png">
+
+---
+
+### `1405995.png`
+<img src="./1405995.png" width="900" alt="1405995.png">
+
+---
+
+### `1405991.png`
+<img src="./1405991.png" width="900" alt="1405991.png">
+
+---
+
+### `1405992.png`
+<img src="./1405992.png" width="900" alt="1405992.png">
+
+---
+
+### `1334085.jpeg`
+<img src="./1334085.jpeg" width="900" alt="1334085.jpeg">
+
+---
+
+### `wallhaven-zpz11v_1920x1080.png`
+<img src="./wallhaven-zpz11v_1920x1080.png" width="900" alt="wallhaven-zpz11v_1920x1080.png">
+
+---
+
+### `wallhaven-yq5ywl_1920x1080.png`
+<img src="./wallhaven-yq5ywl_1920x1080.png" width="900" alt="wallhaven-yq5ywl_1920x1080.png">
+
+---
+
+### `wallhaven-qrjew7_1920x1080.png`
+<img src="./wallhaven-qrjew7_1920x1080.png" width="900" alt="wallhaven-qrjew7_1920x1080.png">
 
 ---
 
@@ -165,11 +210,6 @@
 
 ### `wallhaven-xe62pl_1920x1080.png`
 <img src="./wallhaven-xe62pl_1920x1080.png" width="900" alt="wallhaven-xe62pl_1920x1080.png">
-
----
-
-### `wallhaven-1qp2mw_1920x1080.png`
-<img src="./wallhaven-1qp2mw_1920x1080.png" width="900" alt="wallhaven-1qp2mw_1920x1080.png">
 
 ---
 
