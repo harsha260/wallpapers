@@ -1,5 +1,15 @@
 # Wallpaper Gallery
-*Total Wallpapers: 168 | Sorted by: Latest First*
+*Total Wallpapers: 170 | Sorted by: Latest First*
+
+---
+
+### `wallhaven-xeje3v_1920x1080.png`
+<img src="./wallhaven-xeje3v_1920x1080.png" width="900" alt="wallhaven-xeje3v_1920x1080.png">
+
+---
+
+### `lotm_forsaken_land_of_gods_door_upscaled.jpg`
+<img src="./lotm_forsaken_land_of_gods_door_upscaled.jpg" width="900" alt="lotm_forsaken_land_of_gods_door_upscaled.jpg">
 
 ---
 
