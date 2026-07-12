@@ -1,5 +1,20 @@
 # Wallpaper Gallery
-*Total Wallpapers: 210 | Sorted by: Latest First*
+*Total Wallpapers: 213 | Sorted by: Latest First*
+
+---
+
+### `wallhaven-8g9jy2_1920x1080.png`
+<img src="./wallhaven-8g9jy2_1920x1080.png" width="900" alt="wallhaven-8g9jy2_1920x1080.png">
+
+---
+
+### `wallhaven-lyjqpl_1920x1080.png`
+<img src="./wallhaven-lyjqpl_1920x1080.png" width="900" alt="wallhaven-lyjqpl_1920x1080.png">
+
+---
+
+### `wallhaven-gwmj9l_1920x1080.png`
+<img src="./wallhaven-gwmj9l_1920x1080.png" width="900" alt="wallhaven-gwmj9l_1920x1080.png">
 
 ---
 
