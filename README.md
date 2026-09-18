@@ -1,220 +1,110 @@
 # Wallpaper Gallery
-*Total Wallpapers: 213 | Sorted by: Latest First*
+*Total Wallpapers: 234 | Sorted by: Latest First*
 
 ---
 
-### `wallhaven-8g9jy2_1920x1080.png`
-<img src="./wallhaven-8g9jy2_1920x1080.png" width="900" alt="wallhaven-8g9jy2_1920x1080.png">
+### `wallhaven-gwdrv3_1920x1080.png`
+<img src="./wallhaven-gwdrv3_1920x1080.png" width="900" alt="wallhaven-gwdrv3_1920x1080.png">
 
 ---
 
-### `wallhaven-lyjqpl_1920x1080.png`
-<img src="./wallhaven-lyjqpl_1920x1080.png" width="900" alt="wallhaven-lyjqpl_1920x1080.png">
+### `wallhaven-yq9o8l_1920x1080.png`
+<img src="./wallhaven-yq9o8l_1920x1080.png" width="900" alt="wallhaven-yq9o8l_1920x1080.png">
 
 ---
 
-### `wallhaven-gwmj9l_1920x1080.png`
-<img src="./wallhaven-gwmj9l_1920x1080.png" width="900" alt="wallhaven-gwmj9l_1920x1080.png">
+### `wallhaven-6ly3j6_1920x1080.png`
+<img src="./wallhaven-6ly3j6_1920x1080.png" width="900" alt="wallhaven-6ly3j6_1920x1080.png">
 
 ---
 
-### `8084032.jpg`
-<img src="./8084032.jpg" width="900" alt="8084032.jpg">
+### `wallhaven-vpel8p_1920x1080.png`
+<img src="./wallhaven-vpel8p_1920x1080.png" width="900" alt="wallhaven-vpel8p_1920x1080.png">
 
 ---
 
-### `8084017.jpg`
-<img src="./8084017.jpg" width="900" alt="8084017.jpg">
+### `wallhaven-jedz2y_1920x1080.png`
+<img src="./wallhaven-jedz2y_1920x1080.png" width="900" alt="wallhaven-jedz2y_1920x1080.png">
 
 ---
 
-### `wallhaven-w5mgxr_1920x1080.png`
-<img src="./wallhaven-w5mgxr_1920x1080.png" width="900" alt="wallhaven-w5mgxr_1920x1080.png">
+### `wallhaven-6lyv5x_1920x1080.png`
+<img src="./wallhaven-6lyv5x_1920x1080.png" width="900" alt="wallhaven-6lyv5x_1920x1080.png">
 
 ---
 
-### `wallhaven-9orv7w_1920x1080.png`
-<img src="./wallhaven-9orv7w_1920x1080.png" width="900" alt="wallhaven-9orv7w_1920x1080.png">
+### `wallhaven-e82kv8_1920x1080.png`
+<img src="./wallhaven-e82kv8_1920x1080.png" width="900" alt="wallhaven-e82kv8_1920x1080.png">
 
 ---
 
-### `a_painting_of_a_building_with_smoke_coming_out_of_it.png`
-<img src="./a_painting_of_a_building_with_smoke_coming_out_of_it.png" width="900" alt="a_painting_of_a_building_with_smoke_coming_out_of_it.png">
+### `wallhaven-ogjo5m_1920x1080.png`
+<img src="./wallhaven-ogjo5m_1920x1080.png" width="900" alt="wallhaven-ogjo5m_1920x1080.png">
 
 ---
 
-### `a_moon_over_mountains_and_clouds.png`
-<img src="./a_moon_over_mountains_and_clouds.png" width="900" alt="a_moon_over_mountains_and_clouds.png">
+### `wallhaven-vpewrl_1920x1080.png`
+<img src="./wallhaven-vpewrl_1920x1080.png" width="900" alt="wallhaven-vpewrl_1920x1080.png">
 
 ---
 
-### `a_graveyard_with_a_castle_and_trees.png`
-<img src="./a_graveyard_with_a_castle_and_trees.png" width="900" alt="a_graveyard_with_a_castle_and_trees.png">
+### `wallhaven-yq93zk_1920x1080.png`
+<img src="./wallhaven-yq93zk_1920x1080.png" width="900" alt="wallhaven-yq93zk_1920x1080.png">
 
 ---
 
-### `a_graphic_design_with_a_bird_and_a_banner.png`
-<img src="./a_graphic_design_with_a_bird_and_a_banner.png" width="900" alt="a_graphic_design_with_a_bird_and_a_banner.png">
+### `wallhaven-212x2m_1920x1080.png`
+<img src="./wallhaven-212x2m_1920x1080.png" width="900" alt="wallhaven-212x2m_1920x1080.png">
 
 ---
 
-### `a_person_riding_a_bicycle_in_the_air.png`
-<img src="./a_person_riding_a_bicycle_in_the_air.png" width="900" alt="a_person_riding_a_bicycle_in_the_air.png">
+### `wallhaven-lyde92_1920x1080.png`
+<img src="./wallhaven-lyde92_1920x1080.png" width="900" alt="wallhaven-lyde92_1920x1080.png">
 
 ---
 
-### `a_logo_of_a_person_in_a_triangle.png`
-<img src="./a_logo_of_a_person_in_a_triangle.png" width="900" alt="a_logo_of_a_person_in_a_triangle.png">
+### `wallhaven-lydogq_1920x1080.png`
+<img src="./wallhaven-lydogq_1920x1080.png" width="900" alt="wallhaven-lydogq_1920x1080.png">
 
 ---
 
-### `a_road_with_cars_and_buildings_in_the_background.png`
-<img src="./a_road_with_cars_and_buildings_in_the_background.png" width="900" alt="a_road_with_cars_and_buildings_in_the_background.png">
+### `wallhaven-w5xv9q_1920x1080.png`
+<img src="./wallhaven-w5xv9q_1920x1080.png" width="900" alt="wallhaven-w5xv9q_1920x1080.png">
 
 ---
 
-### `a_blue_and_white_image_of_a_mountain.png`
-<img src="./a_blue_and_white_image_of_a_mountain.png" width="900" alt="a_blue_and_white_image_of_a_mountain.png">
+### `wallhaven-rq68qq_1920x1080.png`
+<img src="./wallhaven-rq68qq_1920x1080.png" width="900" alt="wallhaven-rq68qq_1920x1080.png">
 
 ---
 
-### `a_video_game_graphics_of_a_forest_and_a_lake.png`
-<img src="./a_video_game_graphics_of_a_forest_and_a_lake.png" width="900" alt="a_video_game_graphics_of_a_forest_and_a_lake.png">
+### `wallhaven-qrow67_1920x1080.png`
+<img src="./wallhaven-qrow67_1920x1080.png" width="900" alt="wallhaven-qrow67_1920x1080.png">
 
 ---
 
-### `a_cat_walking_on_a_hill.png`
-<img src="./a_cat_walking_on_a_hill.png" width="900" alt="a_cat_walking_on_a_hill.png">
+### `wallhaven-k8dvy7_1920x1080.png`
+<img src="./wallhaven-k8dvy7_1920x1080.png" width="900" alt="wallhaven-k8dvy7_1920x1080.png">
 
 ---
 
-### `a_video_game_screen_capture.jpg`
-<img src="./a_video_game_screen_capture.jpg" width="900" alt="a_video_game_screen_capture.jpg">
+### `wallhaven-qroy2d_1920x1080.png`
+<img src="./wallhaven-qroy2d_1920x1080.png" width="900" alt="wallhaven-qroy2d_1920x1080.png">
 
 ---
 
-### `a_cartoon_of_a_island_with_a_bridge_and_trees_01.jpg`
-<img src="./a_cartoon_of_a_island_with_a_bridge_and_trees_01.jpg" width="900" alt="a_cartoon_of_a_island_with_a_bridge_and_trees_01.jpg">
+### `wallhaven-d8dxzm_1920x1080.png`
+<img src="./wallhaven-d8dxzm_1920x1080.png" width="900" alt="wallhaven-d8dxzm_1920x1080.png">
 
 ---
 
-### `a_cat_in_a_cup.png`
-<img src="./a_cat_in_a_cup.png" width="900" alt="a_cat_in_a_cup.png">
+### `wallhaven-212krm_1920x1080.png`
+<img src="./wallhaven-212krm_1920x1080.png" width="900" alt="wallhaven-212krm_1920x1080.png">
 
 ---
 
-### `a_video_game_screen_of_a_video_game.jpg`
-<img src="./a_video_game_screen_of_a_video_game.jpg" width="900" alt="a_video_game_screen_of_a_video_game.jpg">
-
----
-
-### `a_landscape_of_mountains_and_a_sunset_01.png`
-<img src="./a_landscape_of_mountains_and_a_sunset_01.png" width="900" alt="a_landscape_of_mountains_and_a_sunset_01.png">
-
----
-
-### `a_landscape_with_mountains_and_stars_01.png`
-<img src="./a_landscape_with_mountains_and_stars_01.png" width="900" alt="a_landscape_with_mountains_and_stars_01.png">
-
----
-
-### `a_cartoon_of_a_island_with_a_bridge_and_trees.jpg`
-<img src="./a_cartoon_of_a_island_with_a_bridge_and_trees.jpg" width="900" alt="a_cartoon_of_a_island_with_a_bridge_and_trees.jpg">
-
----
-
-### `a_blue_and_pink_sky_over_a_mountain_range.png`
-<img src="./a_blue_and_pink_sky_over_a_mountain_range.png" width="900" alt="a_blue_and_pink_sky_over_a_mountain_range.png">
-
----
-
-### `a_mountain_with_trees_and_moon.jpg`
-<img src="./a_mountain_with_trees_and_moon.jpg" width="900" alt="a_mountain_with_trees_and_moon.jpg">
-
----
-
-### `voyager-17.jpg`
-<img src="./voyager-17.jpg" width="900" alt="voyager-17.jpg">
-
----
-
-### `genshin-landscape.png`
-<img src="./genshin-landscape.png" width="900" alt="genshin-landscape.png">
-
----
-
-### `hollow.jpg`
-<img src="./hollow.jpg" width="900" alt="hollow.jpg">
-
----
-
-### `horizon.jpg`
-<img src="./horizon.jpg" width="900" alt="horizon.jpg">
-
----
-
-### `knight-templar.jpg`
-<img src="./knight-templar.jpg" width="900" alt="knight-templar.jpg">
-
----
-
-### `painting.jpg`
-<img src="./painting.jpg" width="900" alt="painting.jpg">
-
----
-
-### `ship-2.png`
-<img src="./ship-2.png" width="900" alt="ship-2.png">
-
----
-
-### `cabin-4.png`
-<img src="./cabin-4.png" width="900" alt="cabin-4.png">
-
----
-
-### `diner-lonely-road.jpg`
-<img src="./diner-lonely-road.jpg" width="900" alt="diner-lonely-road.jpg">
-
----
-
-### `dominik-mayer-24.jpg`
-<img src="./dominik-mayer-24.jpg" width="900" alt="dominik-mayer-24.jpg">
-
----
-
-### `dragon.jpg`
-<img src="./dragon.jpg" width="900" alt="dragon.jpg">
-
----
-
-### `eclipse.jpg`
-<img src="./eclipse.jpg" width="900" alt="eclipse.jpg">
-
----
-
-### `wallhaven-w5mv7q_1920x1080.png`
-<img src="./wallhaven-w5mv7q_1920x1080.png" width="900" alt="wallhaven-w5mv7q_1920x1080.png">
-
----
-
-### `wallhaven-jevqpy_1920x1080.png`
-<img src="./wallhaven-jevqpy_1920x1080.png" width="900" alt="wallhaven-jevqpy_1920x1080.png">
-
----
-
-### `wallhaven-w5m1k6_1920x1080.png`
-<img src="./wallhaven-w5m1k6_1920x1080.png" width="900" alt="wallhaven-w5m1k6_1920x1080.png">
-
----
-
-### `wallhaven-vp5q63_1280x887.png`
-<img src="./wallhaven-vp5q63_1280x887.png" width="900" alt="wallhaven-vp5q63_1280x887.png">
-
----
-
-### `wallhaven-ly22v2_1920x1080.png`
-<img src="./wallhaven-ly22v2_1920x1080.png" width="900" alt="wallhaven-ly22v2_1920x1080.png">
+### `wallhaven-w5dv7q_1920x1080.png`
+<img src="./wallhaven-w5dv7q_1920x1080.png" width="900" alt="wallhaven-w5dv7q_1920x1080.png">
 
 ---
 
@@ -258,6 +148,11 @@
 
 ---
 
+### `wallhaven-xe62pl_1920x1080.png`
+<img src="./wallhaven-xe62pl_1920x1080.png" width="900" alt="wallhaven-xe62pl_1920x1080.png">
+
+---
+
 ### `wallhaven-yq55q7_1920x1080.png`
 <img src="./wallhaven-yq55q7_1920x1080.png" width="900" alt="wallhaven-yq55q7_1920x1080.png">
 
@@ -268,8 +163,18 @@
 
 ---
 
-### `wallhaven-xe62pl_1920x1080.png`
-<img src="./wallhaven-xe62pl_1920x1080.png" width="900" alt="wallhaven-xe62pl_1920x1080.png">
+### `wallhaven-w5mv7q_1920x1080.png`
+<img src="./wallhaven-w5mv7q_1920x1080.png" width="900" alt="wallhaven-w5mv7q_1920x1080.png">
+
+---
+
+### `wallhaven-w5mgxr_1920x1080.png`
+<img src="./wallhaven-w5mgxr_1920x1080.png" width="900" alt="wallhaven-w5mgxr_1920x1080.png">
+
+---
+
+### `wallhaven-w5m1k6_1920x1080.png`
+<img src="./wallhaven-w5m1k6_1920x1080.png" width="900" alt="wallhaven-w5m1k6_1920x1080.png">
 
 ---
 
@@ -295,6 +200,11 @@
 
 ### `wallhaven-vpqvd3_1920x1080.png`
 <img src="./wallhaven-vpqvd3_1920x1080.png" width="900" alt="wallhaven-vpqvd3_1920x1080.png">
+
+---
+
+### `wallhaven-vp5q63_1280x887.png`
+<img src="./wallhaven-vp5q63_1280x887.png" width="900" alt="wallhaven-vp5q63_1280x887.png">
 
 ---
 
@@ -353,6 +263,16 @@
 
 ---
 
+### `wallhaven-lyjqpl_1920x1080.png`
+<img src="./wallhaven-lyjqpl_1920x1080.png" width="900" alt="wallhaven-lyjqpl_1920x1080.png">
+
+---
+
+### `wallhaven-ly22v2_1920x1080.png`
+<img src="./wallhaven-ly22v2_1920x1080.png" width="900" alt="wallhaven-ly22v2_1920x1080.png">
+
+---
+
 ### `wallhaven-l8x1pr_1920x1080.png`
 <img src="./wallhaven-l8x1pr_1920x1080.png" width="900" alt="wallhaven-l8x1pr_1920x1080.png">
 
@@ -373,6 +293,11 @@
 
 ---
 
+### `wallhaven-jevqpy_1920x1080.png`
+<img src="./wallhaven-jevqpy_1920x1080.png" width="900" alt="wallhaven-jevqpy_1920x1080.png">
+
+---
+
 ### `wallhaven-jeeq3q_1920x1080.png`
 <img src="./wallhaven-jeeq3q_1920x1080.png" width="900" alt="wallhaven-jeeq3q_1920x1080.png">
 
@@ -380,6 +305,11 @@
 
 ### `wallhaven-je9ldp_1920x1080.png`
 <img src="./wallhaven-je9ldp_1920x1080.png" width="900" alt="wallhaven-je9ldp_1920x1080.png">
+
+---
+
+### `wallhaven-gwmj9l_1920x1080.png`
+<img src="./wallhaven-gwmj9l_1920x1080.png" width="900" alt="wallhaven-gwmj9l_1920x1080.png">
 
 ---
 
@@ -403,6 +333,11 @@
 
 ---
 
+### `wallhaven-9orv7w_1920x1080.png`
+<img src="./wallhaven-9orv7w_1920x1080.png" width="900" alt="wallhaven-9orv7w_1920x1080.png">
+
+---
+
 ### `wallhaven-9o2x61_1920x1080.png`
 <img src="./wallhaven-9o2x61_1920x1080.png" width="900" alt="wallhaven-9o2x61_1920x1080.png">
 
@@ -410,6 +345,11 @@
 
 ### `wallhaven-9mjw78.png`
 <img src="./wallhaven-9mjw78.png" width="900" alt="wallhaven-9mjw78.png">
+
+---
+
+### `wallhaven-8g9jy2_1920x1080.png`
+<img src="./wallhaven-8g9jy2_1920x1080.png" width="900" alt="wallhaven-8g9jy2_1920x1080.png">
 
 ---
 
@@ -493,8 +433,8 @@
 
 ---
 
-### `undefined - Imgur (3).png`
-<img src="./undefined%20-%20Imgur%20%283%29.png" width="900" alt="undefined - Imgur (3).png">
+### `voyager-17.jpg`
+<img src="./voyager-17.jpg" width="900" alt="voyager-17.jpg">
 
 ---
 
@@ -503,13 +443,18 @@
 
 ---
 
-### `undefined - Imgur (1).png`
-<img src="./undefined%20-%20Imgur%20%281%29.png" width="900" alt="undefined - Imgur (1).png">
+### `undefined - Imgur (2).png`
+<img src="./undefined%20-%20Imgur%20%282%29.png" width="900" alt="undefined - Imgur (2).png">
 
 ---
 
-### `undefined - Imgur (2).png`
-<img src="./undefined%20-%20Imgur%20%282%29.png" width="900" alt="undefined - Imgur (2).png">
+### `undefined - Imgur (3).png`
+<img src="./undefined%20-%20Imgur%20%283%29.png" width="900" alt="undefined - Imgur (3).png">
+
+---
+
+### `undefined - Imgur (1).png`
+<img src="./undefined%20-%20Imgur%20%281%29.png" width="900" alt="undefined - Imgur (1).png">
 
 ---
 
@@ -568,8 +513,8 @@
 
 ---
 
-### `rubiks-cube.png`
-<img src="./rubiks-cube.png" width="900" alt="rubiks-cube.png">
+### `ship-2.png`
+<img src="./ship-2.png" width="900" alt="ship-2.png">
 
 ---
 
@@ -578,13 +523,13 @@
 
 ---
 
-### `routine.jpg`
-<img src="./routine.jpg" width="900" alt="routine.jpg">
+### `rubiks-cube.png`
+<img src="./rubiks-cube.png" width="900" alt="rubiks-cube.png">
 
 ---
 
-### `rocket.png`
-<img src="./rocket.png" width="900" alt="rocket.png">
+### `routine.jpg`
+<img src="./routine.jpg" width="900" alt="routine.jpg">
 
 ---
 
@@ -593,13 +538,13 @@
 
 ---
 
-### `rocket1.png`
-<img src="./rocket1.png" width="900" alt="rocket1.png">
+### `rocket.png`
+<img src="./rocket.png" width="900" alt="rocket.png">
 
 ---
 
-### `redish.jpg`
-<img src="./redish.jpg" width="900" alt="redish.jpg">
+### `rocket1.png`
+<img src="./rocket1.png" width="900" alt="rocket1.png">
 
 ---
 
@@ -613,6 +558,11 @@
 
 ---
 
+### `redish.jpg`
+<img src="./redish.jpg" width="900" alt="redish.jpg">
+
+---
+
 ### `pastel-window.png`
 <img src="./pastel-window.png" width="900" alt="pastel-window.png">
 
@@ -620,6 +570,11 @@
 
 ### `pastel-city.png`
 <img src="./pastel-city.png" width="900" alt="pastel-city.png">
+
+---
+
+### `painting.jpg`
+<img src="./painting.jpg" width="900" alt="painting.jpg">
 
 ---
 
@@ -648,23 +603,23 @@
 
 ---
 
-### `night_moon.png`
-<img src="./night_moon.png" width="900" alt="night_moon.png">
-
----
-
 ### `mountains.png`
 <img src="./mountains.png" width="900" alt="mountains.png">
 
 ---
 
-### `moon.png`
-<img src="./moon.png" width="900" alt="moon.png">
+### `night_moon.png`
+<img src="./night_moon.png" width="900" alt="night_moon.png">
 
 ---
 
 ### `minimal_landscape.jpg`
 <img src="./minimal_landscape.jpg" width="900" alt="minimal_landscape.jpg">
+
+---
+
+### `moon.png`
+<img src="./moon.png" width="900" alt="moon.png">
 
 ---
 
@@ -688,6 +643,11 @@
 
 ---
 
+### `knight-templar.jpg`
+<img src="./knight-templar.jpg" width="900" alt="knight-templar.jpg">
+
+---
+
 ### `kiddae.jpg`
 <img src="./kiddae.jpg" width="900" alt="kiddae.jpg">
 
@@ -698,13 +658,23 @@
 
 ---
 
+### `hotline-miami.jpg`
+<img src="./hotline-miami.jpg" width="900" alt="hotline-miami.jpg">
+
+---
+
 ### `house-art.webp`
 <img src="./house-art.webp" width="900" alt="house-art.webp">
 
 ---
 
-### `hotline-miami.jpg`
-<img src="./hotline-miami.jpg" width="900" alt="hotline-miami.jpg">
+### `horizon.jpg`
+<img src="./horizon.jpg" width="900" alt="horizon.jpg">
+
+---
+
+### `hollow.jpg`
+<img src="./hollow.jpg" width="900" alt="hollow.jpg">
 
 ---
 
@@ -715,11 +685,6 @@
 
 ### `hollow-knight.jpg`
 <img src="./hollow-knight.jpg" width="900" alt="hollow-knight.jpg">
-
----
-
-### `gruvy-night.jpg`
-<img src="./gruvy-night.jpg" width="900" alt="gruvy-night.jpg">
 
 ---
 
@@ -735,6 +700,11 @@
 
 ### `gruvbox_minimal_space.png`
 <img src="./gruvbox_minimal_space.png" width="900" alt="gruvbox_minimal_space.png">
+
+---
+
+### `gruvy-night.jpg`
+<img src="./gruvy-night.jpg" width="900" alt="gruvy-night.jpg">
 
 ---
 
@@ -783,6 +753,16 @@
 
 ---
 
+### `genshin-landscape.png`
+<img src="./genshin-landscape.png" width="900" alt="genshin-landscape.png">
+
+---
+
+### `eclipse.jpg`
+<img src="./eclipse.jpg" width="900" alt="eclipse.jpg">
+
+---
+
 ### `dutch_ships_in_a_lively_breeze_1947.3.1.jpg`
 <img src="./dutch_ships_in_a_lively_breeze_1947.3.1.jpg" width="900" alt="dutch_ships_in_a_lively_breeze_1947.3.1.jpg">
 
@@ -790,6 +770,21 @@
 
 ### `dragon.png`
 <img src="./dragon.png" width="900" alt="dragon.png">
+
+---
+
+### `dragon.jpg`
+<img src="./dragon.jpg" width="900" alt="dragon.jpg">
+
+---
+
+### `dominik-mayer-24.jpg`
+<img src="./dominik-mayer-24.jpg" width="900" alt="dominik-mayer-24.jpg">
+
+---
+
+### `diner-lonely-road.jpg`
+<img src="./diner-lonely-road.jpg" width="900" alt="diner-lonely-road.jpg">
 
 ---
 
@@ -803,13 +798,13 @@
 
 ---
 
-### `colorful-planets.jpg`
-<img src="./colorful-planets.jpg" width="900" alt="colorful-planets.jpg">
+### `colors.jpg`
+<img src="./colors.jpg" width="900" alt="colors.jpg">
 
 ---
 
-### `colors.jpg`
-<img src="./colors.jpg" width="900" alt="colors.jpg">
+### `colorful-planets.jpg`
+<img src="./colorful-planets.jpg" width="900" alt="colorful-planets.jpg">
 
 ---
 
@@ -833,8 +828,8 @@
 
 ---
 
-### `brown_city_planet_w.jpg`
-<img src="./brown_city_planet_w.jpg" width="900" alt="brown_city_planet_w.jpg">
+### `cabin-4.png`
+<img src="./cabin-4.png" width="900" alt="cabin-4.png">
 
 ---
 
@@ -843,13 +838,18 @@
 
 ---
 
-### `biohazard.png`
-<img src="./biohazard.png" width="900" alt="biohazard.png">
+### `brown_city_planet_w.jpg`
+<img src="./brown_city_planet_w.jpg" width="900" alt="brown_city_planet_w.jpg">
 
 ---
 
 ### `black_hole.jpg`
 <img src="./black_hole.jpg" width="900" alt="black_hole.jpg">
+
+---
+
+### `biohazard.png`
+<img src="./biohazard.png" width="900" alt="biohazard.png">
 
 ---
 
@@ -908,6 +908,101 @@
 
 ---
 
+### `a_video_game_screen_of_a_video_game.jpg`
+<img src="./a_video_game_screen_of_a_video_game.jpg" width="900" alt="a_video_game_screen_of_a_video_game.jpg">
+
+---
+
+### `a_video_game_screen_capture.jpg`
+<img src="./a_video_game_screen_capture.jpg" width="900" alt="a_video_game_screen_capture.jpg">
+
+---
+
+### `a_video_game_graphics_of_a_forest_and_a_lake.png`
+<img src="./a_video_game_graphics_of_a_forest_and_a_lake.png" width="900" alt="a_video_game_graphics_of_a_forest_and_a_lake.png">
+
+---
+
+### `a_road_with_cars_and_buildings_in_the_background.png`
+<img src="./a_road_with_cars_and_buildings_in_the_background.png" width="900" alt="a_road_with_cars_and_buildings_in_the_background.png">
+
+---
+
+### `a_person_riding_a_bicycle_in_the_air.png`
+<img src="./a_person_riding_a_bicycle_in_the_air.png" width="900" alt="a_person_riding_a_bicycle_in_the_air.png">
+
+---
+
+### `a_painting_of_a_building_with_smoke_coming_out_of_it.png`
+<img src="./a_painting_of_a_building_with_smoke_coming_out_of_it.png" width="900" alt="a_painting_of_a_building_with_smoke_coming_out_of_it.png">
+
+---
+
+### `a_mountain_with_trees_and_moon.jpg`
+<img src="./a_mountain_with_trees_and_moon.jpg" width="900" alt="a_mountain_with_trees_and_moon.jpg">
+
+---
+
+### `a_moon_over_mountains_and_clouds.png`
+<img src="./a_moon_over_mountains_and_clouds.png" width="900" alt="a_moon_over_mountains_and_clouds.png">
+
+---
+
+### `a_logo_of_a_person_in_a_triangle.png`
+<img src="./a_logo_of_a_person_in_a_triangle.png" width="900" alt="a_logo_of_a_person_in_a_triangle.png">
+
+---
+
+### `a_landscape_with_mountains_and_stars_01.png`
+<img src="./a_landscape_with_mountains_and_stars_01.png" width="900" alt="a_landscape_with_mountains_and_stars_01.png">
+
+---
+
+### `a_landscape_of_mountains_and_a_sunset_01.png`
+<img src="./a_landscape_of_mountains_and_a_sunset_01.png" width="900" alt="a_landscape_of_mountains_and_a_sunset_01.png">
+
+---
+
+### `a_graveyard_with_a_castle_and_trees.png`
+<img src="./a_graveyard_with_a_castle_and_trees.png" width="900" alt="a_graveyard_with_a_castle_and_trees.png">
+
+---
+
+### `a_cat_walking_on_a_hill.png`
+<img src="./a_cat_walking_on_a_hill.png" width="900" alt="a_cat_walking_on_a_hill.png">
+
+---
+
+### `a_cat_in_a_cup.png`
+<img src="./a_cat_in_a_cup.png" width="900" alt="a_cat_in_a_cup.png">
+
+---
+
+### `a_graphic_design_with_a_bird_and_a_banner.png`
+<img src="./a_graphic_design_with_a_bird_and_a_banner.png" width="900" alt="a_graphic_design_with_a_bird_and_a_banner.png">
+
+---
+
+### `a_cartoon_of_a_island_with_a_bridge_and_trees_01.jpg`
+<img src="./a_cartoon_of_a_island_with_a_bridge_and_trees_01.jpg" width="900" alt="a_cartoon_of_a_island_with_a_bridge_and_trees_01.jpg">
+
+---
+
+### `a_cartoon_of_a_island_with_a_bridge_and_trees.jpg`
+<img src="./a_cartoon_of_a_island_with_a_bridge_and_trees.jpg" width="900" alt="a_cartoon_of_a_island_with_a_bridge_and_trees.jpg">
+
+---
+
+### `a_blue_and_white_image_of_a_mountain.png`
+<img src="./a_blue_and_white_image_of_a_mountain.png" width="900" alt="a_blue_and_white_image_of_a_mountain.png">
+
+---
+
+### `a_blue_and_pink_sky_over_a_mountain_range.png`
+<img src="./a_blue_and_pink_sky_over_a_mountain_range.png" width="900" alt="a_blue_and_pink_sky_over_a_mountain_range.png">
+
+---
+
 ### `Darkness-Wallpaper-4K-203181.jpg`
 <img src="./Darkness-Wallpaper-4K-203181.jpg" width="900" alt="Darkness-Wallpaper-4K-203181.jpg">
 
@@ -918,23 +1013,23 @@
 
 ---
 
-### `AdobeStock_856347264_Preview-transformed.jpeg`
-<img src="./AdobeStock_856347264_Preview-transformed.jpeg" width="900" alt="AdobeStock_856347264_Preview-transformed.jpeg">
-
----
-
 ### `AdobeStock_856464192_Preview-transformed.jpeg`
 <img src="./AdobeStock_856464192_Preview-transformed.jpeg" width="900" alt="AdobeStock_856464192_Preview-transformed.jpeg">
 
 ---
 
-### `AdobeStock_836957803_Preview-transformed.jpeg`
-<img src="./AdobeStock_836957803_Preview-transformed.jpeg" width="900" alt="AdobeStock_836957803_Preview-transformed.jpeg">
+### `AdobeStock_856347264_Preview-transformed.jpeg`
+<img src="./AdobeStock_856347264_Preview-transformed.jpeg" width="900" alt="AdobeStock_856347264_Preview-transformed.jpeg">
 
 ---
 
 ### `AdobeStock_836262257_Preview-transformed.jpeg`
 <img src="./AdobeStock_836262257_Preview-transformed.jpeg" width="900" alt="AdobeStock_836262257_Preview-transformed.jpeg">
+
+---
+
+### `AdobeStock_836957803_Preview-transformed.jpeg`
+<img src="./AdobeStock_836957803_Preview-transformed.jpeg" width="900" alt="AdobeStock_836957803_Preview-transformed.jpeg">
 
 ---
 
@@ -1000,6 +1095,16 @@
 
 ### `987919.jpg`
 <img src="./987919.jpg" width="900" alt="987919.jpg">
+
+---
+
+### `8084032.jpg`
+<img src="./8084032.jpg" width="900" alt="8084032.jpg">
+
+---
+
+### `8084017.jpg`
+<img src="./8084017.jpg" width="900" alt="8084017.jpg">
 
 ---
 
