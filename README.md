@@ -1,5 +1,15 @@
 # Wallpaper Gallery
-*Total Wallpapers: 234 | Sorted by: Latest First*
+*Total Wallpapers: 327 | Sorted by: Latest First*
+
+---
+
+### `wallhaven-3qqdg6_1920x1080.png`
+<img src="./wallhaven-3qqdg6_1920x1080.png" width="900" alt="wallhaven-3qqdg6_1920x1080.png">
+
+---
+
+### `wallhaven-pomo69_1920x1080.png`
+<img src="./wallhaven-pomo69_1920x1080.png" width="900" alt="wallhaven-pomo69_1920x1080.png">
 
 ---
 
@@ -1170,6 +1180,461 @@
 
 ### `11476.png`
 <img src="./11476.png" width="900" alt="11476.png">
+
+---
+
+### `tree-stump.jpg`
+<img src="./tree-stump.jpg" width="900" alt="tree-stump.jpg">
+
+---
+
+### `eclipse_1.jpg`
+<img src="./eclipse_1.jpg" width="900" alt="eclipse_1.jpg">
+
+---
+
+### `dominik-mayer-16.jpg`
+<img src="./dominik-mayer-16.jpg" width="900" alt="dominik-mayer-16.jpg">
+
+---
+
+### `laundry.jpg`
+<img src="./laundry.jpg" width="900" alt="laundry.jpg">
+
+---
+
+### `dominik-mayer-26.jpg`
+<img src="./dominik-mayer-26.jpg" width="900" alt="dominik-mayer-26.jpg">
+
+---
+
+### `voyager-22.jpg`
+<img src="./voyager-22.jpg" width="900" alt="voyager-22.jpg">
+
+---
+
+### `result_3.png`
+<img src="./result_3.png" width="900" alt="result_3.png">
+
+---
+
+### `mountain-range.jpg`
+<img src="./mountain-range.jpg" width="900" alt="mountain-range.jpg">
+
+---
+
+### `dominik-mayer-25.jpg`
+<img src="./dominik-mayer-25.jpg" width="900" alt="dominik-mayer-25.jpg">
+
+---
+
+### `shibainu.jpeg`
+<img src="./shibainu.jpeg" width="900" alt="shibainu.jpeg">
+
+---
+
+### `gruvbox_witcher.png`
+<img src="./gruvbox_witcher.png" width="900" alt="gruvbox_witcher.png">
+
+---
+
+### `voyager-21.jpg`
+<img src="./voyager-21.jpg" width="900" alt="voyager-21.jpg">
+
+---
+
+### `ign_yourName.png`
+<img src="./ign_yourName.png" width="900" alt="ign_yourName.png">
+
+---
+
+### `city-horizon.jpg`
+<img src="./city-horizon.jpg" width="900" alt="city-horizon.jpg">
+
+---
+
+### `south-pole.jpg`
+<img src="./south-pole.jpg" width="900" alt="south-pole.jpg">
+
+---
+
+### `dominik-mayer-2.jpg`
+<img src="./dominik-mayer-2.jpg" width="900" alt="dominik-mayer-2.jpg">
+
+---
+
+### `disco.png`
+<img src="./disco.png" width="900" alt="disco.png">
+
+---
+
+### `street.png`
+<img src="./street.png" width="900" alt="street.png">
+
+---
+
+### `voyager-2.jpg`
+<img src="./voyager-2.jpg" width="900" alt="voyager-2.jpg">
+
+---
+
+### `asian-village.png`
+<img src="./asian-village.png" width="900" alt="asian-village.png">
+
+---
+
+### `windmill.jpg`
+<img src="./windmill.jpg" width="900" alt="windmill.jpg">
+
+---
+
+### `b-345.jpg`
+<img src="./b-345.jpg" width="900" alt="b-345.jpg">
+
+---
+
+### `fishing.jpg`
+<img src="./fishing.jpg" width="900" alt="fishing.jpg">
+
+---
+
+### `wallhaven-e7m8zl.jpg`
+<img src="./wallhaven-e7m8zl.jpg" width="900" alt="wallhaven-e7m8zl.jpg">
+
+---
+
+### `b-726.jpg`
+<img src="./b-726.jpg" width="900" alt="b-726.jpg">
+
+---
+
+### `train-sideview.png`
+<img src="./train-sideview.png" width="900" alt="train-sideview.png">
+
+---
+
+### `kitty.jpg`
+<img src="./kitty.jpg" width="900" alt="kitty.jpg">
+
+---
+
+### `sunset_city_1.png`
+<img src="./sunset_city_1.png" width="900" alt="sunset_city_1.png">
+
+---
+
+### `pixel-napping.png`
+<img src="./pixel-napping.png" width="900" alt="pixel-napping.png">
+
+---
+
+### `clouds-3.png`
+<img src="./clouds-3.png" width="900" alt="clouds-3.png">
+
+---
+
+### `dominik-mayer-12.jpg`
+<img src="./dominik-mayer-12.jpg" width="900" alt="dominik-mayer-12.jpg">
+
+---
+
+### `ign_groot.png`
+<img src="./ign_groot.png" width="900" alt="ign_groot.png">
+
+---
+
+### `grandfather-tree.jpg`
+<img src="./grandfather-tree.jpg" width="900" alt="grandfather-tree.jpg">
+
+---
+
+### `misty-boat.jpg`
+<img src="./misty-boat.jpg" width="900" alt="misty-boat.jpg">
+
+---
+
+### `voyager-15.jpg`
+<img src="./voyager-15.jpg" width="900" alt="voyager-15.jpg">
+
+---
+
+### `b-156.jpg`
+<img src="./b-156.jpg" width="900" alt="b-156.jpg">
+
+---
+
+### `snowflakes.jpg`
+<img src="./snowflakes.jpg" width="900" alt="snowflakes.jpg">
+
+---
+
+### `blue-landscape.png`
+<img src="./blue-landscape.png" width="900" alt="blue-landscape.png">
+
+---
+
+### `tree.jpg`
+<img src="./tree.jpg" width="900" alt="tree.jpg">
+
+---
+
+### `dominik-mayer-1.jpg`
+<img src="./dominik-mayer-1.jpg" width="900" alt="dominik-mayer-1.jpg">
+
+---
+
+### `dominik-mayer-13.jpg`
+<img src="./dominik-mayer-13.jpg" width="900" alt="dominik-mayer-13.jpg">
+
+---
+
+### `dominik-mayer-21.jpg`
+<img src="./dominik-mayer-21.jpg" width="900" alt="dominik-mayer-21.jpg">
+
+---
+
+### `ign_batman.png`
+<img src="./ign_batman.png" width="900" alt="ign_batman.png">
+
+---
+
+### `voyager-5.jpg`
+<img src="./voyager-5.jpg" width="900" alt="voyager-5.jpg">
+
+---
+
+### `ship-2_1.png`
+<img src="./ship-2_1.png" width="900" alt="ship-2_1.png">
+
+---
+
+### `cat-street.jpg`
+<img src="./cat-street.jpg" width="900" alt="cat-street.jpg">
+
+---
+
+### `a_road_with_lightning_bolts_in_the_sky.png`
+<img src="./a_road_with_lightning_bolts_in_the_sky.png" width="900" alt="a_road_with_lightning_bolts_in_the_sky.png">
+
+---
+
+### `dominik-mayer-11.jpg`
+<img src="./dominik-mayer-11.jpg" width="900" alt="dominik-mayer-11.jpg">
+
+---
+
+### `railroad-cat.png`
+<img src="./railroad-cat.png" width="900" alt="railroad-cat.png">
+
+---
+
+### `venice-market.png`
+<img src="./venice-market.png" width="900" alt="venice-market.png">
+
+---
+
+### `voyager-4.jpg`
+<img src="./voyager-4.jpg" width="900" alt="voyager-4.jpg">
+
+---
+
+### `clouds_1.png`
+<img src="./clouds_1.png" width="900" alt="clouds_1.png">
+
+---
+
+### `voyager-13.jpg`
+<img src="./voyager-13.jpg" width="900" alt="voyager-13.jpg">
+
+---
+
+### `railroad-2.jpg`
+<img src="./railroad-2.jpg" width="900" alt="railroad-2.jpg">
+
+---
+
+### `dominik-mayer-8.jpg`
+<img src="./dominik-mayer-8.jpg" width="900" alt="dominik-mayer-8.jpg">
+
+---
+
+### `square-city.jpg`
+<img src="./square-city.jpg" width="900" alt="square-city.jpg">
+
+---
+
+### `od_tux.png`
+<img src="./od_tux.png" width="900" alt="od_tux.png">
+
+---
+
+### `painting_1.jpg`
+<img src="./painting_1.jpg" width="900" alt="painting_1.jpg">
+
+---
+
+### `a_house_in_a_field_with_mountains_and_clouds.jpg`
+<img src="./a_house_in_a_field_with_mountains_and_clouds.jpg" width="900" alt="a_house_in_a_field_with_mountains_and_clouds.jpg">
+
+---
+
+### `ign_sunGarden.png`
+<img src="./ign_sunGarden.png" width="900" alt="ign_sunGarden.png">
+
+---
+
+### `lit-up-sky.png`
+<img src="./lit-up-sky.png" width="900" alt="lit-up-sky.png">
+
+---
+
+### `b-880.jpg`
+<img src="./b-880.jpg" width="900" alt="b-880.jpg">
+
+---
+
+### `ign_unsplash39.png`
+<img src="./ign_unsplash39.png" width="900" alt="ign_unsplash39.png">
+
+---
+
+### `main-street.png`
+<img src="./main-street.png" width="900" alt="main-street.png">
+
+---
+
+### `venom.jpg`
+<img src="./venom.jpg" width="900" alt="venom.jpg">
+
+---
+
+### `wall-06.png`
+<img src="./wall-06.png" width="900" alt="wall-06.png">
+
+---
+
+### `voyager-18.jpg`
+<img src="./voyager-18.jpg" width="900" alt="voyager-18.jpg">
+
+---
+
+### `dominik-mayer-17.jpg`
+<img src="./dominik-mayer-17.jpg" width="900" alt="dominik-mayer-17.jpg">
+
+---
+
+### `voyager-10.jpg`
+<img src="./voyager-10.jpg" width="900" alt="voyager-10.jpg">
+
+---
+
+### `isekai.jpg`
+<img src="./isekai.jpg" width="900" alt="isekai.jpg">
+
+---
+
+### `cliff-path.jpg`
+<img src="./cliff-path.jpg" width="900" alt="cliff-path.jpg">
+
+---
+
+### `dark-forest.jpg`
+<img src="./dark-forest.jpg" width="900" alt="dark-forest.jpg">
+
+---
+
+### `stay-vigil-by-pndora.jpg`
+<img src="./stay-vigil-by-pndora.jpg" width="900" alt="stay-vigil-by-pndora.jpg">
+
+---
+
+### `basement.jpg`
+<img src="./basement.jpg" width="900" alt="basement.jpg">
+
+---
+
+### `excalibur-lake.jpg`
+<img src="./excalibur-lake.jpg" width="900" alt="excalibur-lake.jpg">
+
+---
+
+### `b-321.jpg`
+<img src="./b-321.jpg" width="900" alt="b-321.jpg">
+
+---
+
+### `clouds-5.jpg`
+<img src="./clouds-5.jpg" width="900" alt="clouds-5.jpg">
+
+---
+
+### `cat-vibin.png`
+<img src="./cat-vibin.png" width="900" alt="cat-vibin.png">
+
+---
+
+### `ign_unsplash49.png`
+<img src="./ign_unsplash49.png" width="900" alt="ign_unsplash49.png">
+
+---
+
+### `touhou-lake.jpg`
+<img src="./touhou-lake.jpg" width="900" alt="touhou-lake.jpg">
+
+---
+
+### `a_house_on_an_island_in_the_water.png`
+<img src="./a_house_on_an_island_in_the_water.png" width="900" alt="a_house_on_an_island_in_the_water.png">
+
+---
+
+### `dark_forest.png`
+<img src="./dark_forest.png" width="900" alt="dark_forest.png">
+
+---
+
+### `girl-stars.png`
+<img src="./girl-stars.png" width="900" alt="girl-stars.png">
+
+---
+
+### `signal-enthusiast.jpg`
+<img src="./signal-enthusiast.jpg" width="900" alt="signal-enthusiast.jpg">
+
+---
+
+### `dominik-mayer-10.jpg`
+<img src="./dominik-mayer-10.jpg" width="900" alt="dominik-mayer-10.jpg">
+
+---
+
+### `voyager-14.jpg`
+<img src="./voyager-14.jpg" width="900" alt="voyager-14.jpg">
+
+---
+
+### `voyager-20.jpg`
+<img src="./voyager-20.jpg" width="900" alt="voyager-20.jpg">
+
+---
+
+### `ship-3.jpg`
+<img src="./ship-3.jpg" width="900" alt="ship-3.jpg">
+
+---
+
+### `sky.png`
+<img src="./sky.png" width="900" alt="sky.png">
+
+---
+
+### `dominik-mayer-15.jpg`
+<img src="./dominik-mayer-15.jpg" width="900" alt="dominik-mayer-15.jpg">
+
+---
+
+### `storm.jpg`
+<img src="./storm.jpg" width="900" alt="storm.jpg">
 
 ---
 
